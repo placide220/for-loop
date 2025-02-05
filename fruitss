@@ -2,5 +2,6 @@
 
 for car in audi toyota BMW Ford
 do
-  mkdir $car
+  echo "i love this type of car $car"
+ 
 done
